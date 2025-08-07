@@ -17,7 +17,7 @@ This project is a solution to the Bincom ICT Developer Assessment. It analyzes c
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/bincom-python-assessment.git
+git clone https://github.com/Meculos/bincom-python-assessment.git
 cd bincom-python-assessment
 ```
 
